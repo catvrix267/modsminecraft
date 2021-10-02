@@ -1,2 +1,2 @@
-rm ~/.mineraft/mods/*
+rm ~/.mineraft/mods/*.jar
 cp mods/* ~/.minecraft/mods
